@@ -1,0 +1,289 @@
+{
+  "company": {
+    "name": "Traveling Bangladesh Rent A Car",
+    "shortName": "Traveling Bangladesh",
+    "phone": "+880 1712-345678",
+    "whatsapp": "+8801712345678",
+    "email": "hello@travelingbangladesh.com",
+    "address": "House 12, Road 4, Dhanmondi, Dhaka 1205",
+    "hours": "Open 24 hours, 7 days a week"
+  },
+  "hero": {
+    "title": "Your journey. Our responsibility.",
+    "subtitle": "Safe, comfortable, and dependable car rentals for every road across Bangladesh.",
+    "cta": "Explore our fleet",
+    "secondary": "Call +880 1712-345678",
+    "tagline": "Travel with confidence"
+  },
+  "fleet": {
+    "tagline": "Ready when you are",
+    "title": "Find the right ride",
+    "cta": "View all cars"
+  },
+  "benefits": {
+    "tagline": "The difference is in the details",
+    "title": "Travel better with us",
+    "items": [
+      { "title": "Professional drivers", "text": "Trained, verified, and courteous drivers who know Bangladesh." },
+      { "title": "Clean & comfortable", "text": "Fresh, well-maintained vehicles with reliable AC." },
+      { "title": "No hidden charges", "text": "Clear fares agreed upfront. No surprises at drop-off." },
+      { "title": "24/7 support", "text": "Real people ready to help whenever your journey calls." }
+    ]
+  },
+  "testimonials": {
+    "tagline": "Loved by travelers",
+    "title": "They made every kilometer easy.",
+    "description": "From quick city rides to cross-country adventures, thousands of travelers trust us to get them there safely."
+  },
+  "cta": {
+    "title": "Need a car right now?",
+    "description": "Our team is one call away, 24 hours a day.",
+    "button": "Call us immediately"
+  },
+  "about": {
+    "tagline": "About us",
+    "title": "Made for the journey ahead.",
+    "description": "Traveling Bangladesh Rent A Car helps people move across Bangladesh with confidence, comfort, and a little less planning stress.",
+    "story": {
+      "tagline": "Our story",
+      "title": "A better way to travel Bangladesh",
+      "paragraphs": [
+        "What started with one trusted car and a promise to be on time has grown into a dependable fleet serving families, businesses, tourists, and events across the country.",
+        "We believe renting a car should be simple: clear pricing, clean vehicles, thoughtful drivers, and a real person available when you need one."
+      ]
+    },
+    "standards": [
+      "Every vehicle is inspected before each booking",
+      "Drivers are verified, trained, and route-aware",
+      "Transparent fares with no surprise fees",
+      "24/7 support from our Dhaka team"
+    ],
+    "stats": [
+      ["12+", "Years on the road"],
+      ["8,500+", "Trips completed"],
+      ["98%", "Happy customers"],
+      ["40+", "Expert drivers"]
+    ]
+  },
+  "contact": {
+    "tagline": "Let's talk",
+    "title": "Plan your next trip.",
+    "description": "Tell us where you're going and we'll take care of the rest."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "1 September 2026",
+    "sections": [
+      {
+        "heading": "Information We Collect",
+        "content": "When you submit a booking request or contact form, we collect your name, phone number, email address, travel dates, route details, and any additional notes you provide. We also collect standard web analytics data such as page views and referrer URLs."
+      },
+      {
+        "heading": "How We Use Your Information",
+        "content": "We use your information to respond to your inquiries, confirm bookings, arrange vehicle and driver logistics, send trip-related updates, and improve our website and services. We do not sell or rent personal data to third parties."
+      },
+      {
+        "heading": "Data Sharing",
+        "content": "Your personal information may be shared with our drivers solely for the purpose of fulfilling your booking. We may also use trusted third-party services for website hosting and analytics, which process data on our behalf under strict confidentiality agreements."
+      },
+      {
+        "heading": "Data Security",
+        "content": "We implement reasonable administrative, technical, and physical safeguards to protect your personal information against unauthorized access, alteration, disclosure, or destruction."
+      },
+      {
+        "heading": "Cookies & Analytics",
+        "content": "This website uses cookies and analytics tools to understand how visitors interact with our pages. This helps us improve content and user experience. You may disable cookies in your browser settings at any time."
+      },
+      {
+        "heading": "Your Rights",
+        "content": "You have the right to request access to, correction of, or deletion of your personal data held by us. To exercise these rights, please contact us at the email address listed on our Contact page."
+      },
+      {
+        "heading": "Changes to This Policy",
+        "content": "We may update this Privacy Policy from time to time. Any changes will be posted on this page with a revised date. Continued use of the website after changes are posted constitutes acceptance of the updated policy."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms & Conditions",
+    "lastUpdated": "1 September 2026",
+    "sections": [
+      {
+        "heading": "Booking & Confirmation",
+        "content": "All bookings are subject to vehicle availability and confirmation by our team. A booking request submitted through the website or WhatsApp does not constitute a confirmed reservation until you receive written confirmation from Traveling Bangladesh Rent A Car."
+      },
+      {
+        "heading": "Pricing & Payment",
+        "content": "Prices displayed on the website are starting rates and may vary based on route, duration, fuel type, and season. Final pricing will be confirmed before your trip. Payment is collected at the start of the trip unless otherwise agreed in writing."
+      },
+      {
+        "heading": "Cancellation Policy",
+        "content": "Cancellations made at least 48 hours before the scheduled pickup are eligible for a full refund of any advance payment. Cancellations within 48 hours may incur a cancellation fee of up to 25% of the booking value. No-shows are non-refundable."
+      },
+      {
+        "heading": "Driver Conduct",
+        "content": "All drivers are professionally trained, verified, and bound by our code of conduct. They follow traffic regulations, maintain confidentiality of passenger information, and prioritize safety at all times."
+      },
+      {
+        "heading": "Vehicle Condition",
+        "content": "Every vehicle undergoes a thorough inspection before each trip. Vehicles are clean, mechanically sound, and equipped with air conditioning. If you experience any issue during your trip, please contact our support team immediately."
+      },
+      {
+        "heading": "Liability",
+        "content": "Traveling Bangladesh Rent A Car is responsible for providing the vehicle and driver as confirmed in your booking. We are not liable for delays caused by traffic, weather, road closures, or other circumstances beyond our reasonable control."
+      },
+      {
+        "heading": "Governing Law",
+        "content": "These terms are governed by the laws of Bangladesh. Any disputes arising from bookings or use of our services shall be subject to the jurisdiction of the courts in Dhaka, Bangladesh."
+      }
+    ]
+  },
+  "faq": {
+    "tagline": "Questions & answers",
+    "title": "Frequently asked questions",
+    "description": "Everything you need to know before booking your ride with us.",
+    "items": [
+      {
+        "question": "How do I book a car?",
+        "answer": "Simply use the request a quote form on our home or contact page, or message us on WhatsApp. Share your pickup and drop-off location, travel date, and preferred vehicle, and our team will confirm availability within minutes."
+      },
+      {
+        "question": "Do you provide a driver with the rental?",
+        "answer": "Yes. Every rental includes a professional, verified driver who knows the roads of Bangladesh. This keeps your journey safe, relaxed, and completely stress-free."
+      },
+      {
+        "question": "Are prices per day or for the whole trip?",
+        "answer": "Prices shown are starting daily rates. The final fare depends on your route, distance, duration, and vehicle type. We always agree on a clear, fixed price with you before the trip begins — no hidden charges."
+      },
+      {
+        "question": "Which areas of Bangladesh do you cover?",
+        "answer": "We cover the entire country — from Dhaka and Chittagong to Sylhet, Cox's Bazar, Sundarbans, and beyond. If you can drive there, we can take you there."
+      },
+      {
+        "question": "Can I book for a wedding, corporate, or special event?",
+        "answer": "Absolutely. We arrange vehicles for weddings, corporate transport, group tours, school trips, and VIP transfers. Tell us the details and we will put together the right fleet for your event."
+      },
+      {
+        "question": "How can I pay?",
+        "answer": "We accept cash, bKash, and bank transfer. Payment is collected at the start of your trip unless otherwise agreed in writing. You only pay the exact amount we confirmed — no surprises."
+      },
+      {
+        "question": "What is your cancellation policy?",
+        "answer": "Cancellations made at least 48 hours before pickup receive a full refund of any advance payment. Cancellations within 48 hours may incur a fee of up to 25% of the booking value."
+      }
+    ]
+  },
+  "routes": {
+    "tagline": "Popular routes",
+    "title": "Where do you want to go?",
+    "description": "Hand-picked journeys our customers book most across Bangladesh.",
+    "items": [
+      {
+        "from": "Dhaka",
+        "to": "Cox's Bazar",
+        "distance": "410 km",
+        "duration": "9 hours",
+        "price": 15000,
+        "color": "sky"
+      },
+      {
+        "from": "Dhaka",
+        "to": "Sylhet",
+        "distance": "245 km",
+        "duration": "5 hours",
+        "price": 12000,
+        "color": "emerald"
+      },
+      {
+        "from": "Dhaka",
+        "to": "Chittagong",
+        "distance": "250 km",
+        "duration": "4.5 hours",
+        "price": 12500,
+        "color": "amber"
+      },
+      {
+        "from": "Dhaka",
+        "to": "Sundarbans",
+        "distance": "350 km",
+        "duration": "7 hours",
+        "price": 18000,
+        "color": "violet"
+      },
+      {
+        "from": "Dhaka",
+        "to": "Saint Martin's",
+        "distance": "480 km",
+        "duration": "11 hours",
+        "price": 19000,
+        "color": "rose"
+      },
+      {
+        "from": "Dhaka",
+        "to": "Rajshahi",
+        "distance": "250 km",
+        "duration": "5 hours",
+        "price": 11000,
+        "color": "teal"
+      }
+    ]
+  },
+  "steps": {
+    "tagline": "How it works",
+    "title": "Booked in minutes, not hours",
+    "description": "A simple, transparent process designed around your journey.",
+    "items": [
+      {
+        "icon": "message",
+        "title": "Tell us your plan",
+        "text": "Share your pickup point, destination, date, and vehicle type on WhatsApp or via the form."
+      },
+      {
+        "icon": "check",
+        "title": "Get your exact quote",
+        "text": "Our team replies within minutes with a clear, fixed price - no hidden charges, ever."
+      },
+      {
+        "icon": "car",
+        "title": "Your driver arrives",
+        "text": "A verified, experienced driver shows up on time in a clean, road-ready vehicle."
+      },
+      {
+        "icon": "headset",
+        "title": "Travel worry-free",
+        "text": "Stay supported around the clock - we're one call away for the whole journey."
+      }
+    ]
+  },
+  "categories": {
+    "tagline": "Choose your ride",
+    "title": "A vehicle for every need",
+    "description": "From quick city runs to cross-country group tours.",
+    "items": [
+      {
+        "name": "Sedan",
+        "slug": "Sedan",
+        "text": "Smooth and efficient for city trips and business travel.",
+        "icon": "car"
+      },
+      {
+        "name": "SUV",
+        "slug": "SUV",
+        "text": "Command every road with space, power, and comfort.",
+        "icon": "car-front"
+      },
+      {
+        "name": "Microbus",
+        "slug": "Microbus",
+        "text": "Perfect for families, small groups, and events.",
+        "icon": "bus"
+      },
+      {
+        "name": "Tourist Bus",
+        "slug": "Bus",
+        "text": "Large group travel with luxury seating for everyone.",
+        "icon": "truck"
+      }
+    ]
+  }
+}

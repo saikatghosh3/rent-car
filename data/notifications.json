@@ -1,0 +1,66 @@
+[
+  {
+    "id": "NTF-1087",
+    "type": "booking",
+    "title": "New booking request",
+    "description": "Sharmin Akter requested Dhaka → Rajshahi for 16 Sep 2026.",
+    "time": "2026-09-11T09:42:00",
+    "read": false
+  },
+  {
+    "id": "NTF-1086",
+    "type": "booking",
+    "title": "Booking confirmed",
+    "description": "BK-1037 for Alok Das (Dhaka → Cox's Bazar) was confirmed.",
+    "time": "2026-09-11T08:15:00",
+    "read": false
+  },
+  {
+    "id": "NTF-1085",
+    "type": "review",
+    "title": "New 5-star review",
+    "description": "Nusrat Jahan left a 5-star review for Dhaka → Cox's Bazar.",
+    "time": "2026-09-10T19:03:00",
+    "read": false
+  },
+  {
+    "id": "NTF-1084",
+    "type": "system",
+    "title": "Fleet status updated",
+    "description": "2 vehicles returned to available after weekend rentals.",
+    "time": "2026-09-10T10:30:00",
+    "read": true
+  },
+  {
+    "id": "NTF-1083",
+    "type": "booking",
+    "title": "Booking cancelled",
+    "description": "BK-1036 for Nadia Islam (Dhaka → Barishal) was cancelled.",
+    "time": "2026-09-09T16:50:00",
+    "read": true
+  },
+  {
+    "id": "NTF-1082",
+    "type": "car",
+    "title": "Vehicle added to fleet",
+    "description": "Toyota Hiace 2024 was added to the Microbus category.",
+    "time": "2026-09-09T09:12:00",
+    "read": true
+  },
+  {
+    "id": "NTF-1081",
+    "type": "system",
+    "title": "Weekly report ready",
+    "description": "Revenue for this week is up 12% compared to last week.",
+    "time": "2026-09-08T08:00:00",
+    "read": true
+  },
+  {
+    "id": "NTF-1080",
+    "type": "review",
+    "title": "New review awaiting approval",
+    "description": "Imran Kabir's review for Dhaka → Sundarbans needs moderation.",
+    "time": "2026-09-07T14:21:00",
+    "read": true
+  }
+]

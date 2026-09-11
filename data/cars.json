@@ -1,0 +1,67 @@
+[
+  {
+    "id": "toyota-premio",
+    "name": "Toyota Premio",
+    "category": "Sedan",
+    "seats": 5,
+    "luggage": 2,
+    "fuel": "Octane",
+    "transmission": "Automatic",
+    "price": 6500,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&w=1000&q=85",
+    "description": "A refined sedan for comfortable city travel and long-distance journeys.",
+    "features": ["Dual-zone AC", "Professional driver", "Spacious cabin", "Bluetooth audio"]
+  },
+  {
+    "id": "toyota-noah",
+    "name": "Toyota Noah",
+    "category": "Microbus",
+    "seats": 7,
+    "luggage": 4,
+    "fuel": "Octane",
+    "transmission": "Automatic",
+    "price": 8500,
+    "image": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?auto=format&fit=crop&w=1000&q=85",
+    "description": "The ideal family and group travel companion with flexible seating.",
+    "features": ["7 comfortable seats", "Large luggage area", "AC throughout", "Child-friendly"]
+  },
+  {
+    "id": "toyota-land-cruiser",
+    "name": "Toyota Land Cruiser",
+    "category": "SUV",
+    "seats": 7,
+    "luggage": 5,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "price": 18000,
+    "image": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&w=1000&q=85",
+    "description": "Command every road in Bangladesh with premium comfort and confidence.",
+    "features": ["4WD capability", "Premium leather", "Advanced safety", "Driver included"]
+  },
+  {
+    "id": "hiace-super-gl",
+    "name": "Toyota Hiace Super GL",
+    "category": "Microbus",
+    "seats": 12,
+    "luggage": 8,
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "price": 11000,
+    "image": "https://images.unsplash.com/photo-1468818438311-4bab781ab9b8?auto=format&fit=crop&w=1000&q=85",
+    "description": "Reliable, spacious group transport for tours, events, and business.",
+    "features": ["12 seats", "High roof", "Powerful AC", "Ample luggage"]
+  },
+  {
+    "id": "tourist-bus",
+    "name": "Luxury Tourist Bus",
+    "category": "Bus",
+    "seats": 35,
+    "luggage": 30,
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "price": 28000,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1000&q=85",
+    "description": "Move your whole group in comfort with our luxury touring coach.",
+    "features": ["35 reclining seats", "On-board entertainment", "Large storage", "Expert driver"]
+  }
+]
